@@ -1,3 +1,3 @@
 FROM ubuntu
-cmd /bin/bash
+CMD /bin/bash
 
