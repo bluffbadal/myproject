@@ -1,3 +1,3 @@
-FROM ubuntu
+FROM nginx
 CMD /bin/bash
 
