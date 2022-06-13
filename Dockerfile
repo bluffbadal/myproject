@@ -1,3 +1,3 @@
 FROM nginx
-
+PORT 80:80
 
