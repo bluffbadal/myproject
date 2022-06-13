@@ -1,3 +1,3 @@
 FROM ubuntu
-RUN bash
+
 
