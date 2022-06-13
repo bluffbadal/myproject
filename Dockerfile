@@ -1,3 +1,3 @@
 FROM nginx
-EXPOSE 80:80
+EXPOSE 8090:80
 
