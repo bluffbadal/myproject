@@ -1,3 +1,3 @@
 FROM nginx
-ENTRYPOINT tail -f /dev/null
+ENTRYPOINT  tail -f /dev/null
 
